@@ -3,8 +3,14 @@
     "name": "personalOn-app",
     "slug": "personalOn-app",
     "version": "1.0.0",
+    "userInterfaceStyle": "dark",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#25273C"
+    }
   }
 }
