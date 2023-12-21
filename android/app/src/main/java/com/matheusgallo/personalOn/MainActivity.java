@@ -1,4 +1,4 @@
-package com.personalonapp;
+package com.matheusgallo.personalOn;
 
 import android.os.Build;
 import android.os.Bundle;

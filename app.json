@@ -11,6 +11,9 @@
       "image": "./assets/splash.png",
       "resizeMode": "cover",
       "backgroundColor": "#25273C"
+    },
+    "android": {
+      "package": "com.matheusgallo.personalOn"
     }
   }
 }

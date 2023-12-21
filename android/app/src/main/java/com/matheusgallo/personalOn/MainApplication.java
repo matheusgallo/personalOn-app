@@ -1,4 +1,4 @@
-package com.personalonapp;
+package com.matheusgallo.personalOn;
 
 import android.app.Application;
 import android.content.res.Configuration;

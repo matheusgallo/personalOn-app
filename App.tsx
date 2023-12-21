@@ -8,6 +8,8 @@ import { SignIn } from './src/screens/SignIn';
 import { Loading } from './src/components/Loading';
 import { StatusBar } from 'react-native';
 
+import { ANDROID_CLIENT_ID } from '@env';
+
 
 export default function App() {
 
